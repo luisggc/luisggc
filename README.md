@@ -33,7 +33,7 @@ Analytics | <a href="https://anaconda.org/" target="_blank" rel="noreferrer"> <i
   
 > "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
 
-To learn:
+Learning:
 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" height="20"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" height="20"/> </a>
