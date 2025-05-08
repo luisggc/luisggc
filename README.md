@@ -1,39 +1,49 @@
-<!--
-**luisggc/luisggc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Header](./github-header-image.png)
 
-Data Analyst at Vale S.A. seeking career change to React Dev.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Coimbra-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-coimbra/)](https://www.linkedin.com/in/luis-coimbra/) 
+# 👋 Hi, I'm Luis Coimbra
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-coimbra/)](https://www.linkedin.com/in/luis-coimbra/) 
 [![Gmail Badge](https://img.shields.io/badge/-luiscoimbraeng@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscoimbraeng@outlook.com)](mailto:luiscoimbraeng@outlook.com)
 
-Passionate about how technology can impact lives, simplify routines and improve well being.
-I have many works especially with Python, but now I intend to focus on React development. I have works with:
+🎯 **Senior Data Engineer | Snowflake | Databricks | Airflow | Python**
+
+I'm a results-driven Data Engineer with over 7 years of experience designing and scaling high-performance, cost-efficient data solutions. I specialize in cloud data platforms like **Snowflake** and **Databricks**, workflow orchestration with **Apache Airflow**, and large-scale data pipelines using **Python** and **SQL**.
+
+I'm currently working at **Turing** (Kiavi), where I focus on:
+- 💸 **Saved $20k+/year** by optimizing Snowflake upserts and improving storage/query performance  
+- 🔄 **Migrated 100+ data pipelines** to Airflow 2 using reusable, standardized code that reduced maintenance and enforced best practices  
+- 🛎️ **Built an early-warning system** for data warehouse schema changes—integrated with CI/CD and issue tracking tools  
+- 📊 **Enhanced data quality and reliability** by introducing automated validations and increasing dataset coverage through robust transformations  
+- 🧰 **Developed a CLI toolkit** to automate repetitive engineering tasks like table syncing, metadata extraction, and dataset testing  
+- 🧠 **Improved data observability** by refining alert logic and schema ownership in a monitoring platform  
+- 🔐 **Centralized secret management** using a secure vault and automated environment configuration for streamlined onboarding  
+- 📬 **Automated large-scale data exports and reports**, reducing manual effort and increasing delivery consistency  
+- 📚 **Produced in-depth documentation** that accelerated onboarding and standardized data engineering practices across the team  
+
+I thrive in fully remote, global teams and am passionate about building scalable, well-documented systems that align technical excellence with real business impact.
+
+---
 
 
-Languages | <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="20"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="20"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="20"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="20"/> </a> <sup><sup><sup>(not exactly a language, but you got it)</sup></sup></sup>
---- | --- 
-Frontend | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="20"/> </a>  <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="ant-design" height="20"/> </a>    <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="apollo" height="20"/> </a> 
-Backend | <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="20"/> </a>   <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="20"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" height="20"/> </a>
-Databases |  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="20"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mongodb" height="20"/> </a> <a href="https://www.sap.com/brazil/products/hana.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SAP-HANA-red.svg?style=for-the-badge&logoColor=white" alt="sap-hana" height="20"/> </a>
-Analytics | <a href="https://anaconda.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" height="20"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="20"/> </a><a href="https://azure.microsoft.com/pt-br/services/devops/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure-devops" height="20"/> </a>
-  
-> "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
+## 🚀 Current Stack
 
-Learning:
+| Category           | Technologies / Tools                                                                                                  |
+|--------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Languages**       | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Databases**       | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-E84D32?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Orchestration**   | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Etleap](https://img.shields.io/badge/Etleap-6A67CE?style=for-the-badge) ![Hightouch](https://img.shields.io/badge/Hightouch-1E90FF?style=for-the-badge) |
+| **Cloud & Infra**   | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Cloudsmith](https://img.shields.io/badge/Cloudsmith-3C3C3C?style=for-the-badge&logo=cloudsmith&logoColor=white) |
+| **CI/CD & DevOps**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=for-the-badge&logo=buildkite&logoColor=white) |
+| **Security & Secrets** | ![1Password](https://img.shields.io/badge/1Password-0094F5?style=for-the-badge&logo=1password&logoColor=white) |
+| **Monitoring & QA** | ![Metaplane](https://img.shields.io/badge/Metaplane-452475?style=for-the-badge) |
+| **Task & Project Mgmt** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Visualization**   | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Retool](https://img.shields.io/badge/Retool-000000?style=for-the-badge&logo=retool&logoColor=white) |
 
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" height="20"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" height="20"/> </a>
+
+---
+
+> _“And let us not grow weary of doing good, for in due season we will reap, if we do not give up.” – Galatians 6:9_
+
+---
+
+
